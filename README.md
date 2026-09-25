@@ -11,4 +11,4 @@ as a way to track my progress in coding as I continue in the complicated world o
 
 The only coding language I have learned so far is Java from CS 140, and I am currently taking CS 150.
 
-[Home](./)  |  [Projects](projects.html)  | [Future Work](future.work.html)
+[Home](./)  |  [Projects](projects.html)  | [Future Work](future-work.html)
