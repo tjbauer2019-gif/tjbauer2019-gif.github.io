@@ -1,6 +1,6 @@
 # tjbauer2019-gif.github.io
 
-//Tyler Bauer
+## Tyler Bauer
 //About Me
 
 Hello! My name is Tyler Bauer. I am currently enrolled at the University of Wisconsin-Eau Claire, majoring in Astrophysics
