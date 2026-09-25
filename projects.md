@@ -1,6 +1,6 @@
 //Projects 
 
-[Home](./)  |  [Projects](projects.html)  |  [Future Work](future.work.html)
+[Home](./)  |  [Projects](projects.html)  |  [Future Work](future-work.html)
 
 //My Projects
 
